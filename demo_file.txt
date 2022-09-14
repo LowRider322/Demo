@@ -3,3 +3,4 @@ Yes, it is
 Now we work with git gui
 New text 
 super feature
+and another one
