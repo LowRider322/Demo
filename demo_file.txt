@@ -1,3 +1,4 @@
 This is demo
 Yes, it is
 Now we work with git gui
+New text 
